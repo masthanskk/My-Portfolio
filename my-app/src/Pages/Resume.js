@@ -106,7 +106,6 @@ const Resume = () => {
 
           <h4 className=" text-2xl font-bold mb-2">Projects:</h4>
           <h5 className="text-lg font-bold mb-1 pt-4">Project 1: Employee Attendance Payroll Management (EAPM)</h5>
-          <p><strong>Client:</strong> ZakBoys</p>
           <p><strong>Role:</strong> Software Engineer</p>
           <p><strong>Project Description:</strong></p>
           <p> Employee Attendance Payroll Management (EAPM) is a software solution that streamlines employee attendance tracking, payroll 
@@ -116,7 +115,6 @@ const Resume = () => {
               the organization. </p>
 
           <h5 className="text-lg font-bold mb-1 pt-4">Project 2: Karkinos Healthcare Admin Portal</h5>
-          <p><strong>Client:</strong>  Karkinos Healthcare</p>
           <p><strong>Role:</strong> Software Engineer</p>
           <p><strong>Project Description:</strong></p>
           <p>Developed the Admin Portal Dashboard for Karkinos Healthcare, a comprehensive healthcare management system. The dashboard 

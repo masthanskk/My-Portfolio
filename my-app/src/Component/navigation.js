@@ -3,7 +3,6 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 export default function Nav(){
         return (
-             
                 <div className="flex justify-between font-bold bg-white  items-center  py-8 ">
                     <NavLink to ='/portfolio'  className="text-3xl px-10  " > Portfolio</NavLink>
                     
