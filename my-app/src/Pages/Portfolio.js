@@ -128,7 +128,6 @@ export default function Portfolio() {
                     <p className="text-gray-700">
                         Email: [Skmasthan.1999@gmail.com]<br />
                       <a href="https://www.linkedin.com/in/sk-masthan/">  LinkedIn: [sk-masthan] </a> <br />
-                      <a href="https://github.com/masthanskk">  GitHub: [Your GitHub Profile] </a>
                     </p>
                 </div>
             </section>

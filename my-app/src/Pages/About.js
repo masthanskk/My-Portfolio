@@ -45,7 +45,7 @@ export default function About() {
             <p>Happy Clients</p>
           </div>
           <div className="bg-black  text-white p-8 flex flex-col items-center justify-center">
-            <h3 className="text-3xl font-bold">135</h3>
+            <h3 className="text-3xl font-bold">165</h3>
             <p>Followers</p>
           </div>
         </div>
